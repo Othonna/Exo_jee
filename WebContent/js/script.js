@@ -1,6 +1,6 @@
 //alert("Hello! Javascript is working");
 
-/*******************************CURSOR EFFECT*************************************/
+/******************************* CURSOR EFFECT *************************************/
 let mouseCursor = document.querySelector('.cursor');
 let navlinks = document.querySelectorAll('.nav-links li');
 

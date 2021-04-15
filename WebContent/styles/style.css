@@ -10,6 +10,19 @@ body {
     cursor: none;
    
 }
+
+
+
+.logo {
+	width: 5%;
+	height: 5%;
+}
+img {
+	width: 100px;
+	height: 100px;
+}
+
+
 nav {
     display: flex;
     justify-content: space-between;
@@ -32,9 +45,11 @@ nav {
 }
 
 .nav-links,
-h1 {
+img {
     flex: 1;
 }
+
+
 
 .cursor {
     backdrop-filter: blur(6px);

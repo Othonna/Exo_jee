@@ -6,7 +6,7 @@
 
   <head>
    <meta charset="UTF-8">
-    <title>Welcome to Ur first App</title>
+    <title>Rode site</title>
   </head>
   
   
@@ -17,8 +17,8 @@
 
 <div class="cursor"></div>
 
+      
     <nav>
-      <h1>Rode Microphone</h1>
         <ul class="nav-links">
             <li>Home</li>
             <li>Contact</li>
@@ -26,7 +26,12 @@
             <li>Services</li>
         </ul>
     </nav>
-
+    
+    <section> 
+      <div class="front-cover">
+         <img class="shout" src="${pageContext.request.contextPath}/asset/child-micro.jpg" alt="">
+      </div>
+    </section>
 
 
 <script src="${pageContext.request.contextPath}/js/script.js"></script>
