@@ -28,9 +28,15 @@
     </nav>
     
     <section> 
-      <div class="front-cover">
-         <img class="shout" src="${pageContext.request.contextPath}/asset/child-micro.jpg" alt="">
-      </div>
+       <div class="front-cover">
+          <img class="scream_child" src="${pageContext.request.contextPath}/asset/child-micro.jpg" alt="">
+       </div>
+    </section>
+    
+    <section class="promotion">
+       <div>
+       
+       </div>
     </section>
 
 
